@@ -2,6 +2,9 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 import React, { useState, useEffect } from 'react';
+import TextField from '@mui/material/TextField';
+import { useTheme } from '@mui/material/styles';
+import { makeStyles } from '@mui/styles';
 const example = [
   {
     server: 'xxxx',
@@ -44,8 +47,8 @@ const HomePage = () => {
   const showData = () => {};
   return (
     <div>
-      <h1>Hello World</h1>
-      <span>{JSON.stringify(data)}</span>
+      <TextField label='Ingrese descripcion del problema o nombre del server'></TextField>
+      {/* <span>{JSON.stringify(data)}</span> */}
     </div>
   );
 };

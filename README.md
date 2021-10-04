@@ -15,6 +15,8 @@ $ cd server-alerts
 
 5. Start docker containers to create database and app instance
 
+**OPTIONAL** If you are trying to run the app in a apple silicon mac, you need to add `platform: linux/x86_64` inside the service mysql in the docker-compose.yml
+
 ```bash
 $ docker-compose up -d
 ```

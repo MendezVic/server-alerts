@@ -37,10 +37,10 @@ GET /api/v1/alerts?searchTerm=string&page=integer
 
 Search alert by description or server name
 
-| Parameter    | Type      | Description                                                            |
-| :----------- | :-------- | :--------------------------------------------------------------------- |
-| `searchTerm` | `string`  | **OPTIONAL** Search parameter, can be alert description or server name |
-| `page`       | `integer` | **OPTIONAL** Page index, if there is more than 20 alerts               |
+| Parameter    | Type      | Description                                                                                                             |
+| :----------- | :-------- | :---------------------------------------------------------------------------------------------------------------------- |
+| `searchTerm` | `string`  | **OPTIONAL** Search parameter, can be alert description or server name. If no value is sent, will return all the alerts |
+| `page`       | `integer` | **OPTIONAL** Page index, if there is more than 20 alerts. If no value is sent, will return the first page               |
 
 ### Response
 
@@ -122,7 +122,7 @@ The `server_type` attribute return the type of the server can be `onprem` or `vi
 GET /api/v1/alerts/metrics
 ```
 
-Get servers with the most alerts in the month
+Get servers with most alerts in the month
 
 ### Response
 

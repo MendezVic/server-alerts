@@ -35,10 +35,12 @@ $ docker-compose exec backend npm run db:seed
 GET /api/v1/alerts?searchTerm=string&page=integer
 ```
 
-| Parameter    | Type     | Description                                                            |
-| :----------- | :------- | :--------------------------------------------------------------------- |
-| `searchTerm` | `string` | **OPTIONAL** Search parameter, can be alert description or server name |
-| `page`       | `string` | **OPTIONAL** Page index, if there is more than 20 alerts               |
+Search alert by description or server name
+
+| Parameter    | Type      | Description                                                            |
+| :----------- | :-------- | :--------------------------------------------------------------------- |
+| `searchTerm` | `string`  | **OPTIONAL** Search parameter, can be alert description or server name |
+| `page`       | `integer` | **OPTIONAL** Page index, if there is more than 20 alerts               |
 
 ### Response
 
@@ -57,6 +59,8 @@ The `currentPage` attribute return the actual number of page for that search
 ```http
 GET /api/v1/alerts/:id
 ```
+
+Search alert by id
 
 | Path Variables | Type      | Description            |
 | :------------- | :-------- | :--------------------- |
@@ -83,6 +87,8 @@ The `server_type` attribute return the type of the server can be `onprem` or `vi
 ```http
 POST /api/v1/alerts/
 ```
+
+Create an alert
 
 ### Body
 
@@ -111,3 +117,31 @@ The `id` attribute return the ID of the alert.
 The `server` attribute return the server name.
 The `description` attribute return the problem of the alert
 The `server_type` attribute return the type of the server can be `onprem` or `virtual`
+
+```http
+GET /api/v1/alerts/metrics
+```
+
+Get servers with the most alerts in the month
+
+### Response
+
+```javascript
+[
+  {
+    server: string,
+    count: integer,
+  },
+  {
+    server: string,
+    count: integer,
+  },
+  {
+    server: string,
+    count: integer,
+  },
+];
+```
+
+The `server` attribute return the server name.
+The `count` attribute return the number of alerts from that server.

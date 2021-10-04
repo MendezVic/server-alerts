@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+  backend:
+    container_name: backend
+    build: ./server-alerts-api
+    restart: always
+    ports:
+      - '8080:8080'
+    depends_on:
+      - mysql
+  mysql:
+    container_name: mysql
+    image: mysql
+    ports:
+      - '3306:3306'
+    volumes:
+      - data:/data/db
+    environment:
+      - MYSQL_ROOT_PASSWORD=1234
+      - MYSQL_DATABASE=alerts
+  frontend:
+    container_name: frontend
+    build: ./server-alerts-front
+    ports:
+      - '3000:3000'
+
+volumes:
+  data:

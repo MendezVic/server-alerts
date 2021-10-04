@@ -1,55 +1,78 @@
-/* eslint-disable no-undef */
-/* eslint-disable no-unused-vars */
-/* eslint-disable react/prop-types */
 import React, { useState, useEffect } from 'react';
 import TextField from '@mui/material/TextField';
-import { useTheme } from '@mui/material/styles';
-import { makeStyles } from '@mui/styles';
-const example = [
-  {
-    server: 'xxxx',
-    description: 'aaaaa',
-    created_at: 'hh-mm-ss-dd-mm-yyyy',
-    server_type: 'onprem/virtual',
-  },
-  {
-    server: 'xxxx',
-    description: 'bbbbb',
-    created_at: 'hh-mm-ss-dd-mm-yyyy',
-    server_type: 'onprem/virtual',
-  },
-  {
-    server: 'xxxx',
-    description: 'ccccc',
-    created_at: 'hh-mm-ss-dd-mm-yyyy',
-    server_type: 'onprem/virtual',
-  },
-  {
-    server: 'xxxx',
-    description: 'ddddd',
-    created_at: 'hh-mm-ss-dd-mm-yyyy',
-    server_type: 'onprem/virtual',
-  },
-  {
-    server: 'xxxx',
-    description: 'eeeee',
-    created_at: 'hh-mm-ss-dd-mm-yyyy',
-    server_type: 'onprem/virtual',
-  },
-];
+import Box from '@mui/material/Box';
+import Grid from '@mui/material/Grid';
+import Pagination from '@mui/material/Pagination';
+import CircularProgress from '@mui/material/CircularProgress';
+import Cards from '../../component/cards/cards';
+import AlertsService from '../../service/getAlertsService';
+
+const { getAlerts } = AlertsService;
 
 const HomePage = () => {
-  const [data, setData] = useState([]);
+  const [alerts, setAlerts] = useState([]);
+  const [isLoading, setIsLoading] = useState(false);
+  const [searchText, setSearchText] = useState('');
+  const [totalPages, setTotalPages] = useState(1);
+  const [currentPage, setCurrentPage] = useState(1);
 
+  const fetchAlerts = async (page = 1) => {
+    try {
+      setIsLoading(true);
+      const response = await getAlerts(searchText, page);
+      setAlerts(response.data);
+      setTotalPages(response.pages);
+      setIsLoading(false);
+    } catch (e) {
+      setIsLoading(false);
+      setAlerts(e);
+    }
+  };
   useEffect(() => {
-    setData(example);
+    fetchAlerts();
+    // eslint-disable-next-line
   }, []);
-  const showData = () => {};
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setCurrentPage(1);
+    fetchAlerts();
+  };
+
+  const handleChangePage = (e, newPage) => {
+    setCurrentPage(newPage);
+    fetchAlerts(newPage);
+  };
+
   return (
-    <div>
-      <TextField label='Ingrese descripcion del problema o nombre del server'></TextField>
-      {/* <span>{JSON.stringify(data)}</span> */}
-    </div>
+    <Box mt={2} component='form' onSubmit={handleSubmit}>
+      <Grid
+        container
+        spacing={2}
+        alignItems='center'
+        justifyContent='center'
+        direction='column'
+      >
+        <Grid item>
+          <TextField
+            label='Search by alert description or by server'
+            onChange={(e) => setSearchText(e.target.value)}
+            value={searchText}
+            sx={{ minWidth: '450px' }}
+          ></TextField>
+        </Grid>
+        <Grid item>
+          {isLoading ? <CircularProgress /> : <Cards alerts={alerts} />}
+        </Grid>
+        {!isLoading && (
+          <Pagination
+            count={totalPages}
+            page={currentPage}
+            onChange={handleChangePage}
+          />
+        )}
+      </Grid>
+    </Box>
   );
 };
 

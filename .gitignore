@@ -5,5 +5,7 @@ node_modules/
 # Optional npm cache directory
 .npm
 
+# Ommit enviroment file
+/server-alerts-api/.env
 # Optional eslint cache
 .eslintcache

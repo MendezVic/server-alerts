@@ -1,0 +1,6002 @@
+[
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-10 13:20:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-18 02:30:37",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-20 20:34:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-26 18:11:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-30 05:07:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-21 08:00:33",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-25 13:11:35",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-26 18:16:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-13 08:03:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-15 07:04:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-21 04:23:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-06 04:44:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-20 08:56:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-20 21:29:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-12 18:40:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-11 16:39:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-16 00:53:22",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-06 13:38:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-05 21:41:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-28 01:03:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-01 18:46:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-17 11:46:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-12 17:00:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-04 19:20:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-03 22:03:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-15 23:32:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-08 17:36:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-29 07:46:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-22 02:04:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-12 03:47:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-13 23:36:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-30 18:38:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-04 00:19:10",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-15 08:35:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-29 22:52:28",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-09 14:54:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-02 00:18:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-05 22:16:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-23 08:27:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-19 14:27:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-05 13:11:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-06 12:22:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-05 01:32:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-02 06:05:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-27 17:37:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-13 12:14:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-20 18:01:37",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-11 05:32:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-21 21:49:50",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-21 17:40:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-22 13:17:50",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-15 09:50:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-14 06:39:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-01 00:10:36",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-17 23:56:08",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-31 22:38:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-24 02:20:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-07 21:46:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-09 05:22:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-12-26 12:15:50",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-17 01:03:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-10-25 13:16:05",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-06 12:13:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-09 22:30:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-11 13:18:08",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-08 13:43:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-09 16:01:10",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-30 16:11:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-24 23:57:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-15 00:59:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-13 09:48:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-04 19:07:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-20 06:29:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-18 06:12:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-08 11:04:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-14 23:51:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-25 04:54:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-26 07:37:19",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-06 20:08:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-18 03:26:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-28 04:56:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-09 06:46:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-30 01:30:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-19 02:15:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-23 03:45:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-20 15:58:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-29 17:08:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-24 12:08:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-28 17:46:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-10 03:24:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-30 03:45:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-26 21:26:12",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-24 07:51:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-23 05:36:43",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-14 07:30:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-01 18:13:37",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-27 03:28:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-08 00:10:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-14 12:12:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-20 11:06:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-13 11:14:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-29 16:08:49",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-12 20:02:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-07 10:54:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-20 05:43:19",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-05 13:00:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-22 14:14:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-01 21:17:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-17 18:20:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-22 01:54:10",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-13 06:19:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-18 03:39:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-13 12:52:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-05 16:32:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-01 17:03:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-17 22:10:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-21 11:18:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-26 19:14:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-11 04:45:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-15 03:15:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-12 06:08:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-17 03:51:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-07 14:36:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-30 08:18:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-02 20:28:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-21 13:35:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-20 11:45:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-11 16:00:37",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-13 07:58:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-28 07:37:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-08 10:35:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-24 13:46:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-04 23:16:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-26 00:19:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-10-07 19:07:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-19 08:29:46",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-07 14:39:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-30 20:03:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-15 14:12:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-01 01:59:22",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-07 22:18:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-02 02:22:37",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-28 12:09:49",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-19 03:42:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-05 19:24:02",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-10 08:46:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-28 04:23:04",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-01 02:58:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-25 22:28:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-16 05:22:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-16 22:28:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-06 16:49:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-09 17:46:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-02 15:15:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-22 13:58:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-05 09:27:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-16 14:24:46",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-18 04:21:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-06 05:58:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-17 07:49:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-13 16:19:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-22 07:28:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-05 13:34:35",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-25 04:16:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-27 21:49:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-29 14:04:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-17 15:07:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-16 16:03:20",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-09 06:10:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-06 07:46:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-29 09:35:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-16 04:47:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-07 05:25:20",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-04 15:00:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-23 02:30:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-11 09:02:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-25 08:50:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-06 08:42:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-22 00:31:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-19 16:52:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-03 14:17:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-19 12:17:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-24 10:19:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-16 08:54:43",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-17 06:25:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-20 18:01:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-20 16:47:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-29 20:18:04",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-08 22:04:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-06 16:57:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-08 20:24:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-14 05:16:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-26 07:39:35",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-24 06:22:05",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-31 00:48:56",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-13 14:31:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-18 06:20:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-13 15:20:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-27 22:03:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-27 21:24:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-06 15:17:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-15 09:36:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-02 22:32:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-18 05:00:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-20 20:32:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-04 08:28:25",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-09 09:32:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-02 15:12:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-18 20:34:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-30 18:08:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-18 00:49:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-15 07:31:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-16 08:18:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-16 20:57:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-16 08:57:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-21 03:50:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-28 08:29:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-14 00:38:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-29 20:35:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-25 16:02:20",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-04 04:18:56",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-10 06:54:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-24 17:34:20",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-10-07 08:58:16",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-23 09:31:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-11 22:24:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-07 19:40:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-03 12:26:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-01 17:13:05",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-21 11:20:28",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-01 08:56:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-27 02:37:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-20 23:05:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-11 20:44:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-05 10:02:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-06 20:39:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-20 00:48:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-20 00:40:28",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-13 08:16:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-15 19:50:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-20 01:10:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-21 22:46:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-11 02:25:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-22 13:43:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-14 14:06:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-31 02:28:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-23 14:28:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-02 19:11:31",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-08 00:32:50",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-30 20:19:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-15 09:27:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-14 08:09:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-24 06:54:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-25 22:17:45",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-07 15:43:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-29 02:22:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-01 15:38:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-31 10:19:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-01 15:24:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-29 06:02:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-07 16:08:54",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-01 18:07:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-20 00:37:20",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-09 15:07:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-12-29 22:50:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-17 09:39:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-05 19:12:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-24 22:29:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-08 14:50:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-17 03:08:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-16 21:47:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-22 10:25:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-29 12:42:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-25 15:50:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-01 20:05:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-15 11:43:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-12 08:10:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-06 20:03:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-23 14:45:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-16 04:43:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-27 09:55:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-03 14:35:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-16 19:30:25",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-27 03:45:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-15 12:49:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-19 20:24:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-27 07:04:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-23 03:20:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-25 16:36:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-09 11:59:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-30 10:12:31",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-13 02:46:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-08 08:47:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-17 20:59:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-06 02:30:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-26 14:22:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-08 13:47:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-07 20:18:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-14 15:15:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-24 04:19:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-10-01 11:55:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-07 15:27:30",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-07 18:02:08",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-21 17:51:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-19 10:53:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-07 06:18:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-19 06:55:04",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-19 15:09:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-27 12:00:05",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-21 01:46:18",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-27 23:53:50",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-14 19:38:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-12 22:06:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-29 05:34:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-06 11:00:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-17 05:04:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-19 15:44:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-23 02:24:19",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-19 07:18:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-12 17:09:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-08 13:29:10",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-28 15:55:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-17 09:19:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-11 14:56:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-21 05:42:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-18 09:04:43",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-18 19:23:28",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-12 09:43:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-29 19:35:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-31 13:51:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-22 14:11:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-17 05:15:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-28 19:05:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-14 17:18:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-05 05:01:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-09 12:10:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-03 09:32:09",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-01 15:38:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-24 19:36:10",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-06 10:49:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-13 12:17:50",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-22 19:00:54",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-06 23:53:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-14 08:50:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-27 04:05:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-23 23:41:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-17 05:43:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-28 03:20:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-13 22:18:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-13 17:12:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-13 05:00:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-16 16:13:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-27 12:18:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-23 07:32:30",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-16 18:35:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-24 20:17:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-20 00:44:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-02 08:44:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-16 11:55:56",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-01 16:49:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-12 00:51:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-18 13:36:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-29 16:12:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-31 04:49:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-20 23:13:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-28 20:24:18",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-17 04:48:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-01 07:51:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-19 02:52:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-15 07:00:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-28 15:25:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-05 21:14:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-18 18:54:10",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-18 12:39:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-06 23:21:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-03 09:45:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-13 09:56:41",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-03 11:14:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-03 18:43:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-17 19:16:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-10 18:59:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-08 22:06:25",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-28 19:02:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-04 09:38:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-26 00:53:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-29 07:31:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-26 19:00:35",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-01 17:55:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-10-16 14:39:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-07 00:23:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-26 07:22:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-29 14:02:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-13 04:33:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-17 17:06:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-18 17:08:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-03 12:34:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-14 20:46:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-24 16:40:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-02 06:23:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-10 23:17:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-08 23:28:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-17 19:46:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-19 06:33:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-21 05:06:10",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-16 19:34:12",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-19 21:41:37",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-11 01:18:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-09 18:47:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-27 16:27:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-12 00:41:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-11 04:19:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-02 04:51:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-27 01:23:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-02 21:48:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-16 01:14:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-02 11:56:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-06 20:44:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-23 12:29:54",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-12 15:41:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-26 23:41:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-15 01:10:18",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-20 03:57:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-12 18:05:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-20 10:57:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-23 00:26:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-13 22:51:03",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-04 09:19:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-06 18:35:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-01 09:12:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-10 01:29:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-15 08:16:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-05 06:25:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-18 19:08:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-29 11:40:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-04 23:18:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-30 12:28:19",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-16 16:36:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-13 21:42:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-12 01:05:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-23 06:32:31",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-21 19:12:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-23 07:59:43",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-28 16:12:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-08 01:55:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-24 11:28:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-28 13:59:18",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-09 05:54:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-29 03:37:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-21 10:48:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-01 18:08:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-22 12:32:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-22 18:17:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-05 10:07:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-18 18:43:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-18 05:42:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-15 03:19:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-23 05:44:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-10 21:57:12",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-10 21:09:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-01 22:14:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-22 03:22:02",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-09 18:32:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-21 17:17:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-06 02:37:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-27 21:23:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-15 09:19:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-12 18:42:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-16 22:51:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-30 01:33:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-15 13:16:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-10 04:45:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-01 02:12:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-13 14:55:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-06 01:40:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-04 12:19:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-21 12:27:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-21 08:44:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-09 08:38:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-04 21:36:16",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-05 16:34:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-26 05:13:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-05 17:55:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-11 09:28:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-08 20:15:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-20 06:16:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-12-15 16:29:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-07 06:18:10",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-02 18:41:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-23 22:51:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-05 08:25:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-21 18:03:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-12 16:45:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-02 21:16:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-06 23:22:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-30 12:41:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-04 15:26:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-17 10:12:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-02 22:00:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-03 14:18:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-17 07:32:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-05 16:14:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-12 23:12:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-23 13:41:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-10-16 00:08:45",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-16 21:17:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-04 19:28:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-21 07:27:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-17 15:50:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-06 11:12:01",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-21 18:31:36",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-01 01:45:45",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-01 14:31:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-27 14:45:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-19 10:27:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-02 20:03:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-14 22:17:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-14 04:17:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-02 03:53:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-05 18:14:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-13 17:52:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-30 23:16:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-22 18:09:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-02 10:30:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-22 16:41:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-24 19:42:04",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-08 14:50:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-30 01:27:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-15 15:38:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-10 13:07:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-03 01:08:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-12-30 16:42:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-02 12:51:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-29 14:22:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-22 11:34:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-05-01 03:49:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-27 14:24:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-09 19:52:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-21 06:57:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-05 02:58:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-16 11:33:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-22 21:12:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-09 21:59:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-22 05:27:36",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-05 02:56:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-10 22:31:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-08 02:16:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-23 13:40:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-18 10:53:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-27 14:02:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-21 04:24:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-02 17:00:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-16 14:46:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-22 08:15:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-06 09:50:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-06 16:03:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-28 01:22:45",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-07-28 10:37:50",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-27 23:04:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-18 15:51:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-20 03:18:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-29 17:36:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-20 23:50:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-16 05:38:10",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-12 23:57:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-22 08:23:25",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-08 01:26:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-12 14:48:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-02 07:02:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-15 23:45:20",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-06 19:25:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-16 13:04:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-07 23:52:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-06 14:18:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-04 16:49:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-27 15:49:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-31 09:24:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-12 20:21:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-27 10:19:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-23 15:46:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-31 15:33:28",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-11 21:15:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-03 06:16:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-19 10:17:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-19 17:33:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-06 20:33:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-21 09:40:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-26 22:44:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-05 12:53:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-13 13:37:45",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-17 20:25:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-03 07:02:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-31 01:14:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-13 23:14:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-15 17:55:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-08 05:23:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-02 08:40:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-19 03:42:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-19 06:32:22",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-15 19:54:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-03 00:48:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-03 08:24:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-13 05:09:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-22 17:22:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-05-12 01:29:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-21 17:06:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-20 03:44:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-02 04:09:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-14 19:53:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-31 05:49:01",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-23 20:59:30",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-07 10:43:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-20 02:17:35",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-12 04:46:18",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-02 17:14:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-26 11:00:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-12 04:42:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-04 02:05:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-29 03:00:02",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-04 22:20:20",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-19 22:43:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-30 17:06:31",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-10 15:55:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-21 11:39:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-12 13:19:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-29 19:12:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-23 03:02:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-05 02:53:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-28 23:21:46",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-20 14:13:39",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-23 13:52:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-30 23:04:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-07 09:31:19",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-08 15:07:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-29 16:16:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-07 22:24:50",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-05 06:54:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-02 05:21:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-10 18:00:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-13 03:00:20",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-11 22:16:28",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-08 19:08:01",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-01 05:19:50",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-01 12:38:45",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-20 05:04:41",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-05 22:46:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-14 04:56:03",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-13 20:53:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-13 19:19:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-15 20:09:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-25 12:29:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-09 00:31:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-01 07:51:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-02 05:27:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-21 10:16:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-20 21:09:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-16 03:36:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-18 22:01:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-16 15:40:28",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-05 06:55:14",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-20 01:23:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-29 05:54:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-17 10:43:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-04 17:32:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-06 07:17:12",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-23 00:55:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-09-30 12:14:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-02-27 01:02:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-23 16:58:49",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-29 18:59:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-14 16:16:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-08 21:31:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-08 01:04:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-20 17:01:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-27 14:47:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-21 22:21:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-08 04:12:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-11 09:24:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-27 10:03:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-09 00:17:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-05 16:38:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-22 23:38:28",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-25 23:02:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-14 06:05:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-08 06:31:25",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-26 01:47:50",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-06 06:02:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-14 23:58:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-23 10:52:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-02 18:07:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-09 19:36:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-04 16:54:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-23 09:44:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-04 04:09:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-05 19:15:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-07 15:53:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-10 10:14:10",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-12 02:37:20",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-20 06:50:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-01 12:00:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-10 05:22:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-25 19:06:31",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-12-16 20:49:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-08 02:36:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-10 09:12:12",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-30 08:07:02",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-13 06:20:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-11 08:09:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-15 21:23:30",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-05 22:09:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-15 07:27:56",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-29 12:13:10",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-03 21:32:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-12 23:10:36",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-01 02:22:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-26 08:46:41",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-01 22:06:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-30 03:26:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-01 09:38:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-16 07:23:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-24 13:14:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-07 04:42:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-05 17:56:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-03 09:09:22",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-03 21:47:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-02 16:25:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-08 15:45:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-31 01:02:43",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-28 03:12:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-11 17:35:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-17 04:21:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-07 12:43:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-20 14:20:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-20 02:38:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-21 22:18:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-09 13:14:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-17 19:55:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-17 23:06:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-12 12:15:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-06 20:42:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-29 22:07:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-05 19:10:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-02 20:55:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-28 05:43:22",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-28 15:38:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-22 17:10:18",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-20 06:18:10",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-10 20:03:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-03 17:00:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-29 18:10:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-06 05:35:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-25 01:24:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-18 00:21:04",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-01 12:38:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-14 22:31:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-08-01 14:50:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-30 02:05:05",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-25 02:17:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-07 21:23:13",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-08 16:47:09",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-17 03:16:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-07-23 12:06:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-05-08 14:09:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-23 11:20:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-25 09:03:36",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-09 09:14:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-25 12:25:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-05 08:54:48",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-06 00:10:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-22 11:32:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-28 19:15:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-11 21:08:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-14 17:22:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-11 09:33:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-03 08:43:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-07-24 10:13:46",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-07 16:08:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-04 04:39:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-02 03:10:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-10 17:37:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-10 12:33:30",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-09 20:46:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-10-25 01:18:49",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-30 20:45:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-15 10:05:07",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-10 22:18:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-31 00:49:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-23 13:51:24",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-26 12:08:16",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-02 13:36:03",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-17 18:23:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-28 12:30:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-02-09 00:56:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-12 03:36:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-28 14:02:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-08 12:05:03",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-09 05:48:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-19 02:46:56",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-17 20:20:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-30 12:40:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-10 02:01:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-02 02:29:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-15 12:04:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-18 19:01:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-03-09 11:33:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-02 11:27:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-01 03:53:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-02 14:42:58",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-19 13:43:54",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-15 10:34:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-27 02:13:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-24 16:53:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-07 04:40:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-07 17:09:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-14 23:08:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-25 12:03:54",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-26 01:02:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-23 06:01:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-15 11:57:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-16 13:02:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-11 02:30:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-08 20:19:08",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-05 16:59:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-12 21:00:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-08 03:01:22",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-30 15:39:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-17 11:25:16",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-09 09:11:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-25 23:22:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-25 08:31:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-03-10 18:27:38",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-23 02:45:30",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-30 18:36:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-03 03:40:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-12 02:10:32",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-20 16:02:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-23 22:00:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-19 12:09:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-24 23:32:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-04-08 00:24:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-12-18 16:35:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-11 15:33:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-09 05:50:54",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-09-27 02:49:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-03 00:40:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-22 10:02:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-20 00:37:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-10-31 11:25:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-28 23:03:39",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-12-29 16:56:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-04-04 14:35:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-30 08:21:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-01 09:04:49",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-19 13:17:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-10 23:26:33",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-10 10:14:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-14 09:14:16",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-04 17:45:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-06 17:34:13",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-04 21:20:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-20 05:28:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-01 11:47:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-12 14:22:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-12-12 12:10:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-12-02 09:22:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-30 15:45:33",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-30 12:49:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-17 09:55:40",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-16 07:39:05",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-08 08:14:46",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-30 18:15:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-17 00:26:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-12 13:31:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-21 16:13:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-13 03:15:20",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-23 18:12:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-17 13:14:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-08 06:36:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-02-03 17:44:20",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2020-10-25 13:25:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-03 16:01:44",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-04-08 11:16:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-07 18:18:42",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-03-05 21:53:12",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-29 23:44:34",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-05-29 02:47:30",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-27 01:59:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-13 07:43:55",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-12 20:22:54",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-09 15:54:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-30 01:04:28",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-01 16:31:52",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-24 09:06:02",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-07-18 09:45:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-04 18:49:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-02 14:34:00",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-12 09:22:28",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-07-28 23:25:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-09-26 15:28:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-02-21 19:31:36",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-03 01:35:27",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-05 14:37:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-10 22:49:06",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-10-25 00:22:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-11-16 03:10:01",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-24 02:30:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-22 14:14:05",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-28 14:32:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-07-23 00:01:40",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-06-30 18:22:04",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-17 02:22:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-07 13:05:03",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2020-11-15 22:20:58",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-21 09:26:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-29 18:12:08",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-07 21:33:59",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-08-03 20:21:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-02 00:10:52",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-04-05 16:03:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-10-22 20:56:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "Network Interface restarted",
+    "created_at": "2021-06-14 20:13:35",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-29 09:39:29",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-19 09:38:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-08 10:44:11",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-21 10:20:02",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-18 02:48:33",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-16 09:29:26",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-30 11:04:19",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-07 01:53:45",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-04-22 05:03:46",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-10 20:44:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-09-04 08:03:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-21 15:51:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-01 11:18:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2020-11-13 14:25:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-05-03 00:38:19",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-03 00:26:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-25 05:14:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-05-10 17:34:56",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-25 11:31:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-06-08 08:31:38",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-02 01:27:33",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-19 19:57:11",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-13 20:09:12",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-06 14:13:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-05-23 19:26:57",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-12-20 06:07:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-01-25 14:26:33",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-08-19 04:09:44",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-08-29 03:53:16",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-19 10:04:48",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-17 17:53:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-03 16:35:28",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-19 01:49:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-02-12 17:53:17",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-19 21:45:51",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-01-01 18:38:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "Network Interface restarted",
+    "created_at": "2021-01-18 20:46:37",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2020-11-04 15:05:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-08-20 16:40:46",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-13 07:44:27",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-02 15:45:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-09-11 00:58:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-30 09:45:59",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-09-09 19:47:21",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-08-22 17:56:09",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-04 21:23:42",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-09-03 11:28:14",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-26 16:17:47",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2020-11-16 16:22:23",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-06-23 11:02:07",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-02-15 04:31:36",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-01-24 07:12:53",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-12-03 18:35:47",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-04-22 08:08:57",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc01",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-08-01 14:04:15",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2021-05-31 05:05:00",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-01-16 03:56:25",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-22 05:01:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-06-25 11:50:01",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-05 23:33:34",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility failure",
+    "created_at": "2021-03-31 13:59:21",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-11-18 18:52:08",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-06-10 23:08:56",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-05-06 01:13:31",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc08",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-07 01:57:17",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-06-21 13:35:24",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "Network Interface restarted",
+    "created_at": "2020-12-04 02:05:26",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc06",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-03-22 13:16:06",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc04",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-05-02 14:18:51",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-10 05:56:55",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc06",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2021-03-12 16:43:32",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "PDU: Initial Switch Pos",
+    "created_at": "2020-10-24 10:45:08",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-02-02 11:35:43",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc01",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2021-03-19 22:27:29",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS: The number of batteries decreased",
+    "created_at": "2021-01-08 19:39:02",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc05",
+    "description": "UPS - Utility restored",
+    "created_at": "2020-11-10 02:48:18",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc07",
+    "description": "UPS - Utility restored",
+    "created_at": "2021-07-17 09:20:15",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc08",
+    "description": "Link is unavailable by ICMP",
+    "created_at": "2020-10-23 12:57:23",
+    "server_type": "virtual"
+  },
+  {
+    "server": "ardc03",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-04-23 00:53:53",
+    "server_type": "onprem"
+  },
+  {
+    "server": "ardc02",
+    "description": "UPS: The number of batteries increased",
+    "created_at": "2021-01-31 06:00:52",
+    "server_type": "virtual"
+  }
+]

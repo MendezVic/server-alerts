@@ -2,23 +2,19 @@
 import './App.css';
 import HomePage from './view/homePage/homePage';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { makeStyles } from '@mui/styles';
+import { CssBaseline } from '@mui/material';
+
 const theme = createTheme({
   palette: {
     mode: 'dark',
   },
 });
 
-const useStyles = makeStyles({
-  root: {
-    backgroundColor: 'black',
-  },
-});
 function App() {
-  const classes = useStyles();
   return (
-    <div className={classes.root}>
+    <div>
       <ThemeProvider theme={theme}>
+        <CssBaseline />
         <div className='App'>
           <HomePage />
         </div>

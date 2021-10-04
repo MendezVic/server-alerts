@@ -25,6 +25,7 @@ const HomePage = () => {
       setIsLoading(false);
     } catch (e) {
       setIsLoading(false);
+      setTotalPages(0);
       setAlerts(e);
     }
   };
@@ -43,7 +44,20 @@ const HomePage = () => {
     setCurrentPage(newPage);
     fetchAlerts(newPage);
   };
-
+  const showPagination = () => {
+    if (totalPages === 0) {
+      return <span></span>;
+    } else if (!isLoading) {
+      return (
+        <Pagination
+          count={totalPages}
+          page={currentPage}
+          onChange={handleChangePage}
+          sx={{ marginTop: '10px' }}
+        />
+      );
+    }
+  };
   return (
     <Box mt={2} component='form' onSubmit={handleSubmit}>
       <Grid
@@ -64,13 +78,7 @@ const HomePage = () => {
         <Grid item>
           {isLoading ? <CircularProgress /> : <Cards alerts={alerts} />}
         </Grid>
-        {!isLoading && (
-          <Pagination
-            count={totalPages}
-            page={currentPage}
-            onChange={handleChangePage}
-          />
-        )}
+        {showPagination()}
       </Grid>
     </Box>
   );

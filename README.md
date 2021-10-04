@@ -54,7 +54,7 @@ Search alert by description or server name
 
 The `pages` attribute return the total numbers of pages.
 The `data` attribute return an array of all the alerts based on `searchTerm` param.
-The `currentPage` attribute return the actual number of page for that search
+The `currentPage` attribute return the actual page for that search
 
 ```http
 GET /api/v1/alerts/:id

@@ -17,7 +17,6 @@ const ErrorResponse = require('../utils/errorResponse');
 exports.getAllAlerts = asyncHandler(async (req, res, next) => {
   const { searchTerm, page } = req.query;
   const count = await getAlertsCount();
-  console.log(count);
   if (count > 0) {
     const alerts = await getAllAlerts(searchTerm, page);
 

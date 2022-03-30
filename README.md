@@ -1,6 +1,6 @@
 # server-alerts
 
-This is full stack app to show alerts from a database.
+This is full stack app really basic showing some alerts from a mysql database using React with Material UI, and NodeJS with Express for the Backend
 
 ## Run the app locally
 
